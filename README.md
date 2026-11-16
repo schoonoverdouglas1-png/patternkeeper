@@ -1,5 +1,7 @@
 # PatternKeeper
 
+Project tag: **PK-2026-001** (code form: PK2026001)
+
 A small keeper of decisions, open questions, and next steps — built by
 Douglas Roy Schoonover with Copilot (Microsoft side) and Ember / Purple Rat
 (Muse side), Nov 16, 2026. The current version keeps everything in SQLite:
