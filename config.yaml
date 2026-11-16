@@ -1,0 +1,29 @@
+developer_options:
+  debug_mode: true
+  verbose_logging: true
+  json_export: true
+  markdown_export: true
+  pattern_tracking: true
+  save_history: true
+  timestamps: true
+  versioning: true
+  auto_backup: true
+  unit_tests: true
+  api_testing: true
+  schema_validation: true
+  performance_metrics: true
+  error_reporting: true
+  experimental_features: true
+
+exports:
+  - json
+  - markdown
+  - txt
+  - csv
+
+analysis:
+  pattern_detection: true
+  dependency_tracking: true
+  decision_graph: true
+  open_question_index: true
+  next_step_planner: true
